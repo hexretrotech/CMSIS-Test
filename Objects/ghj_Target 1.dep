@@ -1,6 +1,6 @@
 Dependencies for Project 'ghj', Target 'Target 1': (DO NOT MODIFY !)
 F (.\CMSIS\DeviceSupport\ST\STM32F10x\startup\arm\startup_stm32f10x_md.s)(0x56D0A5F0)(--cpu Cortex-M3 --li --pd "__EVAL SETA 1" -g --apcs=interwork -I D:\CMSIS\CMSIS-Test\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include-I C:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 518" --pd "ARMCM3 SETA 1"--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
-F (.\main.c)(0x56D0CE57)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections -I .\CMSIS\CoreSupport -I .\CMSIS\DeviceSupport\ST\STM32F10x-I D:\CMSIS\CMSIS-Test\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="518" -DARMCM3-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+F (.\main.c)(0x56D1EE70)(-c --cpu Cortex-M3 -D__EVAL --li -g -O0 --apcs=interwork --split_sections -I .\CMSIS\CoreSupport -I .\CMSIS\DeviceSupport\ST\STM32F10x-I D:\CMSIS\CMSIS-Test\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="518" -DARMCM3-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
 I (.\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x4BD15CF4)
 I (.\CMSIS\CoreSupport\core_cm3.h)(0x56D0CA1B)
 I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x569E3E9A)
